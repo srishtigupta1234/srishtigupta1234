@@ -75,7 +75,7 @@ An **action-packed space shooter game** developed using **Pygame** where you bat
   <a href="mailto:srishtigupta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="180" height="45" />
   </a>
-  <a href="www.linkedin.com/in/srishti-gupta-ab6092323" target="_blank">
+  <a href="[www.linkedin.com/in/srishti-gupta-ab609232](https://www.linkedin.com/in/srishti-gupta-ab6092323/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="180" height="45" />
   </a>
   <a href="https://yourportfolio.web.app" target="_blank">
