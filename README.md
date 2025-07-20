@@ -78,6 +78,17 @@ An **action-packed space shooter game** developed using **Pygame** where you bat
   <img src="https://github-readme-stats.vercel.app/api?username=srishtigupta1234&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtigupta1234&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
+---
+
+### 📚 LeetCode & Problem Solving
+
+🚀 Regularly solving **DSA challenges** to sharpen problem-solving and logic-building skills.
+
+- 🧠 **Profile**: [LeetCode @srishtigupta1234](https://leetcode.com/srishtigupta1234/)
+- ✅ Solved 250+ problems across arrays, strings, linked lists, dynamic programming, and more
+- 🏅 Active streaks, badges, and frequent participation in contests
+- ⚒️ Focused on writing clean, efficient code with time and space optimization
+
 
 ---
 
