@@ -36,6 +36,8 @@ A **visually appealing and interactive portfolio** to showcase my frontend devel
 - 🎨 **Key Feature**: Responsive design, Lottie animations, custom components, and smooth scroll navigation  
 🔗 [Visit Website](https://srishtiguptaportfolio.netlify.app/) | [View Code](https://github.com/srishtigupta1234/srishtigupta1234.github.io)
 
+---
+
 
 #### 🍃 **Digital Gram Panchayat**  
 A **full-stack solution** to transform local governance — allowing citizens to register for government schemes, track applications, and access public services.
