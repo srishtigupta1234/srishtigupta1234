@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🧑‍🎓 **BCA Student | Developer Intern @Unified Mentor**  
+- 🧑‍🎓 **BCA Student | Ex Developer Intern @Unified Mentor | Current Intern @Sure Trust**  
 - 💻 Passionate about **full-stack development** and **cloud-based deployments**  
 - 🌱 Currently learning **Spring Boot**, **Low-Level Design**, **Microservices**, and **Cloud Computing**  
 - 🧠 Always seeking **innovative solutions** to real-world problems through code  
@@ -78,7 +78,7 @@ An **action-packed space shooter game** developed using **Pygame** where you bat
   <a href="https://www.linkedin.com/in/srishti-gupta-ab6092323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="180" height="45" />
   </a>
-  <a href="https://yourportfolio.web.app" target="_blank">
+  <a href="https://srishtiguptaportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" width="180" height="45" />
   </a>
 </div>
